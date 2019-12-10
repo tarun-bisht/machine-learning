@@ -11,4 +11,4 @@ Implementing Machine Learning models from scratch using python for checking know
 ## 3. [Polynomial Regression](https://github.com/tarun-bisht/machine-learning/tree/master/Polynomial%20Regression)
 ## 4. [Logistic Regression](https://github.com/tarun-bisht/machine-learning/tree/master/Logistic%20Regression)
 ## 5. [Nearest Neighbour](https://github.com/tarun-bisht/machine-learning/tree/master/Nearest%20Neighbour)
-* using K-D tree data structure
+* using [K-D tree data structure](https://github.com/tarun-bisht/Data-Structures/tree/master/K-d%20Tree)
