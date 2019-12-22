@@ -2,9 +2,9 @@
 Implementing Machine Learning models from scratch using python for checking knowledge and understanding about that model.
 
 ## Requirements:
-* numpy
-* pandas
-* matplotlib
+* `pip install numpy`
+* `pip install pandas`
+* `pip install matplotlib`
 
 ## 1. [Simple Linear Regression](https://github.com/tarun-bisht/machine-learning/tree/master/Simple%20Linear%20Regression)
 ## 2. [Multiple Linear Regression](https://github.com/tarun-bisht/machine-learning/tree/master/Multiple%20Linear%20Regression)
