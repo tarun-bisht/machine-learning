@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning Models from Scratch
 Implementing Machine Learning models from scratch using python for checking knowledge and understanding about that model.
 
 ## Requirements:
