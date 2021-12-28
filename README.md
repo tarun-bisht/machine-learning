@@ -1,5 +1,5 @@
 # Machine Learning Models from Scratch
-Implementing Machine Learning models from scratch using python.
+Implementing Machine Learning algorithms from scratch using python.
 
 ## Requirements:
 * `pip install numpy`
